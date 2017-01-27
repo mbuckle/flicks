@@ -34,13 +34,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+I started the video with the WiFi turned off to demonstrate the Network Error user story, then I turned on the WiFi to demonstrate the rest of the features.
+
 <img src='https://github.com/mbuckle/flicks/blob/master/flicks.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+Collection views were a little challenging at first, but I got the hang of it after some trial and error...
 
 ## License
 
